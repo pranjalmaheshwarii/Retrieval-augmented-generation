@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+faiss-cpu
+pypdf
+pyttsx3
+SpeechRecognition
+PyPDF2
+beautifulsoup4
+requests
+PyMuPDF
+python-dotenv
